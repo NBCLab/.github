@@ -1,2 +1,3 @@
-# .github
-A special repository.
+Hi there :wave:
+
+We're the NBC Lab!

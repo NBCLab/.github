@@ -1,6 +1,7 @@
-## Hi there 👋
+# The Neuroinformatics and Brain Connectivity Lab
 
-We're the NBC Lab!
+We're a cognitive neuroscience lab at Florida International University.
+If you want to learn more about our research, papers, posters, talks, or team, check out our lab website: https://nbclab.github.io.
 
 <!--
 

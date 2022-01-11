@@ -1,6 +1,6 @@
 # The Neuroinformatics and Brain Connectivity Lab
 
-We're a cognitive neuroscience lab at Florida International University in Miami, Florida.
+We're a cognitive neuroscience lab at Florida International University in Miami, Florida, led by Drs. Angela Laird ([@angielaird](https://github.com/angielaird)) and Matthew Sutherland ([@masuther](https://github.com/masuther)).
 If you want to learn more about our research, papers, posters, talks, or team, check out our lab website: https://nbclab.github.io.
 
 <!--
